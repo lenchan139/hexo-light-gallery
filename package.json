@@ -1,7 +1,7 @@
 {
-  "name": "hexo-light-gallery",
-  "version": "1.0.1",
-  "description": "Generate gallery using light gallery for Hexo",
+  "name": "hexo-light-gallery-fix",
+  "version": "1.1.3",
+  "description": "[Fix]Generate gallery using light gallery for Hexo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
